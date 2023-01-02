@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-A project made during learning of reactjs.
+A project made during learning of reactjs, named shopping-react-app.
 
 ## Available Scripts
 
